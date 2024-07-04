@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "updatedName1",
+    "team": "updatedTeam1"
+  },
+  {
+    "id": 2,
+    "name": "name2",
+    "team": "equipe2"
+  },
+  {
+    "id": 3,
+    "name": "name3",
+    "team": "team3"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays2"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays4"
+  }
+]

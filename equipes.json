@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "equipe1",
+    "pays": "pays1"
+  },
+  {
+    "id": 2,
+    "name": "equipe2",
+    "pays": "pays2"
+  },
+  {
+    "id": 3,
+    "name": "team3",
+    "pays": "pays3"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays4"
+  },
+  {
+    "email": "user2@gmail.com",
+    "password": "password"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays4"
+  },
+  {
+    "email": "sanaai@gmail.com",
+    "password": "153"
+  },
+  {
+    "email": "sanaai@gmail.com",
+    "password": "153"
+  },
+  {
+    "email": "belghabi@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays2"
+  },
+  {
+    "email": "user2@gmail.com",
+    "password": "password"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays4"
+  },
+  {
+    "email": "user9@gmail.com",
+    "password": "password"
+  },
+  {
+    "id": 4,
+    "name": "equipe4",
+    "pays": "pays4"
+  }
+]
